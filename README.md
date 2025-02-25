@@ -3,8 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-  
-Explain what software engineering is and discuss its importance in the technology industry.
+  Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
@@ -16,13 +15,12 @@ Identify and describe at least three key milestones in the evolution of software
 .Mastering process
 .Mastering machine
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
- planning - identify the software requirement or purpose and scope.
+   planning - identify the software requirement or purpose and scope.
  requirement analysis - identify the final user specification. 
-design - building the framework. 
-coding - converting software design into tangible code.
- testing - examine the software for any bugs and glitches
+  design - building the framework. 
+  coding - converting software design into tangible code.
+   testing - examine the software for any bugs and glitches
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -55,13 +53,11 @@ Project Manager - assembles and lead the software development team.
  - tracking and communicating information regarding the project milestone.
  - deliver the complete software to the client and regularly check its performance.
 
-
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-  -rapid technological advancement places considerable pressure on software engineers to stay current.
+  What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+    -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
-Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
+  Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
  Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
 -Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
  Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
@@ -78,7 +74,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
  - help to ensure data flows smoothly between modules and interfaces work as expected.
  System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
-Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
+  Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be    running while testing and focus on replicating user behaviors. 
 
 #Part 2: Introduction to AI and Prompt Engineering
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
