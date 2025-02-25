@@ -3,7 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-  Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
@@ -17,11 +17,10 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
    planning - identify the software requirement or purpose and scope.
- requirement analysis - identify the final user specification. 
+   requirement analysis - identify the final user specification. 
   design - building the framework. 
   coding - converting software design into tangible code.
    testing - examine the software for any bugs and glitches
-
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
@@ -30,12 +29,10 @@ waterfall methodology - Linear and sequential, each phase is completed before mo
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
 
-
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
-
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
@@ -84,8 +81,6 @@ Importance:
   developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Draw a picture of a person
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
